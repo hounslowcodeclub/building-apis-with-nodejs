@@ -1,6 +1,6 @@
 # NTask API
 
-This is a API project used for study purposes and it is one of the pilot project of the ebook: [Building APIs with Node.js](https://leanpub.com/building-apis-with-nodejs).
+This our is a API project used for study purposes and it is one of the pilot project of the ebook: [Building APIs with Node.js](https://leanpub.com/building-apis-with-nodejs).
 
 ## Setup
 
